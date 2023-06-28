@@ -1,0 +1,4056 @@
+{
+    "Lancet-2": {
+        "level": 30,
+        "elite": 0,
+        "potential": 6,
+        "defaultSkill": 0,
+        "skilllevel": 1,
+        "masteries": {},
+        "skin": "char_285_medic2@boc#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Castle-3": {
+        "level": 30,
+        "elite": 0,
+        "potential": 6,
+        "defaultSkill": 0,
+        "skilllevel": 1,
+        "masteries": {},
+        "skin": "char_286_cast3@summer#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "THRM-EX": {
+        "level": 30,
+        "elite": 0,
+        "potential": 6,
+        "defaultSkill": 0,
+        "skilllevel": 1,
+        "masteries": {},
+        "skin": "char_376_therex#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "'Justice Knight'": {
+        "level": 30,
+        "elite": 0,
+        "potential": 6,
+        "defaultSkill": 0,
+        "skilllevel": 1,
+        "masteries": {},
+        "skin": "char_4000_jnight#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Yato": {
+        "level": 30,
+        "elite": 0,
+        "potential": 6,
+        "defaultSkill": 0,
+        "skilllevel": 1,
+        "masteries": {},
+        "skin": "char_502_nblade#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Noir Corne": {
+        "level": 30,
+        "elite": 0,
+        "potential": 6,
+        "defaultSkill": 0,
+        "skilllevel": 1,
+        "masteries": {},
+        "skin": "char_500_noirc#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Rangers": {
+        "level": 30,
+        "elite": 0,
+        "potential": 6,
+        "defaultSkill": 0,
+        "skilllevel": 1,
+        "masteries": {},
+        "skin": "char_503_rang#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Durin": {
+        "level": 30,
+        "elite": 0,
+        "potential": 6,
+        "defaultSkill": 0,
+        "skilllevel": 1,
+        "masteries": {},
+        "skin": "char_501_durin#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "12F": {
+        "level": 30,
+        "elite": 0,
+        "potential": 6,
+        "defaultSkill": 0,
+        "skilllevel": 1,
+        "masteries": {},
+        "skin": "char_009_12fce#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Fang": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_123_fang@winter#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Vanilla": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_240_wyvern#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Reserve Operator - Melee": {
+        "level": 55,
+        "elite": 1,
+        "potential": 1,
+        "defaultSkill": 0,
+        "skilllevel": 7,
+        "masteries": {},
+        "skin": "char_504_rguard#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Plume": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_192_falco#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Melantha": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_208_melan@epoque#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Popukar": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_281_popka#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Cardigan": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_209_ardign@snow#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Beagle": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_122_beagle@boc#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Reserve Operator - Defender": {
+        "level": 55,
+        "elite": 1,
+        "potential": 1,
+        "defaultSkill": 0,
+        "skilllevel": 7,
+        "masteries": {},
+        "skin": "char_514_rdfend#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Spot": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_284_spot@boc#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Kroos": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_124_kroos@witch#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Adnachiel": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_211_adnach@sale#5",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Reserve Operator - Sniper": {
+        "level": 55,
+        "elite": 1,
+        "potential": 1,
+        "defaultSkill": 0,
+        "skilllevel": 7,
+        "masteries": {},
+        "skin": "char_507_rsnipe#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Lava": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_121_lava#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Hibiscus": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_120_hibisc@nian#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ansel": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_212_ansel@summer#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Reserve Operator - Logistics": {
+        "level": 55,
+        "elite": 1,
+        "potential": 1,
+        "defaultSkill": 0,
+        "skilllevel": 7,
+        "masteries": {},
+        "skin": "char_506_rmedic#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Steward": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_210_stward@sale#6",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Reserve Operator - Caster": {
+        "level": 55,
+        "elite": 1,
+        "potential": 1,
+        "defaultSkill": 0,
+        "skilllevel": 7,
+        "masteries": {},
+        "skin": "char_505_rcast#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Orchid": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_278_orchid#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Haze": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_141_nights#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Gitano": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_109_fmout@epoque#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Greyy": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_253_greyy@epoque#8",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Click": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_328_cammou@witch#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Indigo": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_469_indigo@nian#7",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Pudding": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4004_pudd#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Jessica": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_235_jesica@sweep#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Meteor": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_126_shotst@epoque#10",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Vermeil": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_190_clour#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "May": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_133_mm#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Shirayuki": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_118_yuki@boc#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Pinecone": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_440_pinecn@shining#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ambriel": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_302_glaze#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Aciddrop": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_366_acdrop@whirlwind#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Totter": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4062_totter#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Courier": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_198_blackd@as#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Scavenger": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_149_scave@striker#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Vigna": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_290_vigna@as#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Myrtle": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_151_myrtle@epoque#12",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Beanstalk": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_452_bstalk@snow#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Dobermann": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_130_doberm@epoque#7",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Matoimaru": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_289_gyuki#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Conviction": {
+        "level": 70,
+        "elite": 2,
+        "potential": 1,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_159_peacok@game#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Frostleaf": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_193_frostl@boc#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Estelle": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_127_estell#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Mousse": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_185_frncat#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Cutter": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_301_cutter#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Utage": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_337_utage@summer#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Arene": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_271_spikes@winter#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Luo Xiaohei": {
+        "level": 70,
+        "elite": 2,
+        "potential": 1,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4067_lolxh#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Quartz": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4063_quartz#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Gravel": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_237_gravel@winter#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Jaye": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_272_strong@summer#6",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Rope": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_236_rope@witch#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Myrrh": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_117_myrrh@wild#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Gavial": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_187_ccheal@epoque#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Sussurro": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_298_susuro@summer#6",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Perfumer": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_181_flower@epoque#9",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Purestream": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_385_finlpp#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Chestnut": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4041_chnut#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Matterhorn": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_199_yak@summer#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Cuora": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_150_snakek@wild#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Bubble": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_381_bubble#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Gummy": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_196_sunbr@summer#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Dur-nar": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_260_durnar#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Deepcolor": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_110_deepcl#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Earthspirit": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_183_skgoat#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Podenco": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_258_podego@epoque#9",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Roberta": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_484_robrta@summer#10",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ethan": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_355_ethan@epoque#7",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Shaw": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_277_sqrrel@ghost#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ptilopsis": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_128_plosis@epoque#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Breeze": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_275_breeze#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Zima": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_115_headbr@it#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Texas": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_102_texas@winter#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Chiave": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_349_chiave#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Tulip": {
+        "level": 80,
+        "elite": 2,
+        "potential": 1,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3
+        },
+        "skin": "char_513_apionr#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Reed": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_261_sddrag@ambienceSynesthesia#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Wild Mane": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_496_wildmn@epoque#16",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Elysium": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_401_elysm@snow#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Blacknight": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_476_blkngt@summer#8",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Cantabile": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_497_ctable#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Swire": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_308_swire@nian#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Whislash": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_265_sophia@epoque#11",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Franka": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_106_franka#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Flamebringer": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_131_flameb@summer#8",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Sharp": {
+        "level": 80,
+        "elite": 2,
+        "potential": 1,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3
+        },
+        "skin": "char_508_aguard#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Indra": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_155_tiger@striker#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Flint": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_415_flint@boc#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Dagda": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_157_dagda#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Lappland": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_140_whitew@boc#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ayerscarpe": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_294_ayer@boc#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Bibeak": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_252_bibeak@winter#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Tachanka": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_459_tachak@rainbow6#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Specter": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_143_ghost@winter#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Broca": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_356_broca@marthe#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Astesia": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_274_astesi@shining#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Sideroca": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_333_sidero@summer#6",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Akafuyu": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_475_akafyu@epoque#15",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "La Pluma": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_421_crow@summer#9",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Highmore": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4066_highmo#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Tequila": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_486_takila@ambienceSynesthesia#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Blue Poison": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_129_bluep@marthe#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Platinum": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_204_platnm@summer#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "GreyThroat": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_367_swllow@boc#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Stormeye": {
+        "level": 80,
+        "elite": 2,
+        "potential": 1,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3
+        },
+        "skin": "char_511_asnipe#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "April": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_365_aprl@wild#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Kroos the Keen Glint": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_1021_kroos2#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Meteorite": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_219_meteo@sweep#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Sesa": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_379_sesa#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Executor": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_279_excu@boc#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Aosta": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_346_aosta@game#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Amiya": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_1001_amiya2#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Absinthe": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_405_absin#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Tomimi": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_411_tomimi@summer#5",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Qanipalaat": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_466_qanik#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Skyfire": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_166_skfire@summer#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Pith": {
+        "level": 80,
+        "elite": 2,
+        "potential": 1,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3
+        },
+        "skin": "char_509_acast#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Leizi": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_306_leizi#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Astgenne": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_135_halo#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Beeswax": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_344_beewax@epoque#9",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Leonhardt": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_373_lionhd@wild#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Mint": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_388_mint#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Iris": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_338_iris@witch#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Lava the Purgatory": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_1011_lava2@nian#6",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Corroserum": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_489_serum#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Kjera": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4013_kjera@epoque#18",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Rockrock": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4040_rockr@lxh#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Minimalist": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4054_malist#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Mayer": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_242_otter@ghost#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Scene": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_336_folivo#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Silence": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_108_silent@sweep#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Warfarin": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_171_bldsk@witch#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Folinic": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_345_folnic@wild#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Touch": {
+        "level": 80,
+        "elite": 2,
+        "potential": 1,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3
+        },
+        "skin": "char_510_amedic#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ceylon": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_348_ceylon#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Whisperain": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_436_whispr@nian#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Tuye": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_402_tuye@epoque#14",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Mulberry": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_473_mberry@epoque#14",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Honeyberry": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_449_glider@epoque#17",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Hibiscus the Purifier": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_1024_hbisc2#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Paprika": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4071_peper#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Nearl": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_148_nearl@summer#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Hung": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_226_hmau@nian#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Projekt Red": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_144_red@summer#6",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Waai Fu": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_243_waaifu@whirlwind#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Kafka": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_214_kafka@snow#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Mr. Nothing": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_455_nothin@nian#7",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Liskarm": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_107_liskam@striker#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Croissant": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_201_moeshd@summer#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Bison": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_325_bison#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Vulcan": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_163_hpsts#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Asbestos": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_378_asbest@whirlwind#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Shalem": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4025_aprot2#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Czerny": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4047_pianst#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Blitz": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_457_blitz#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Heavyrain": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_304_zebra@wild#6",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ashlock": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_431_ashlok#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Aurora": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_422_aurora@boc#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Provence": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_145_prove@wild#5",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Firewatch": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_158_milu@wild#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Andreana": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_218_cuttle@epoque#12",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Lunacub": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4014_lunacu#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Toddifons": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_363_toddi#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Erato": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4043_erato#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Greyy the Lightningbearer": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_1027_greyy2#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Cliffheart": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_173_slchan@wwf#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Snowsant": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_383_snsant@witch#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Pramanix": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_174_slbell@snow#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Shamare": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_254_vodfox@witch#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Istina": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_195_glassb@kitchen#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Glaucus": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_326_glacus@ghost#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Proviso": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4032_provs#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Windflit": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_433_windft#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Sora": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_101_sora@summer#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Heidi": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4045_heidi#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Tsukinogi": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_343_tknogi@epoque#9",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Nine-Colored Deer": {
+        "level": 80,
+        "elite": 2,
+        "potential": 1,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4019_ncdeer#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Quercus": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_492_quercu@epoque#17",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Manticore": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_215_mantic@epoque#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Kirara": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_478_kirara@game#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "FEater": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_241_panda@marthe#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Enforcer": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4036_forcer#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Robin": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_451_robin@epoque#13",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Frost": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_458_rfrost#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Bena": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_369_bena#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Kazemaru": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_4016_kazema@witch#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Exusiai": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_103_angel@wild#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Archetto": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_332_archet@shining#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ash": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_456_ash@rainbow6#1",
+        "module": "Y",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Schwarz": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_340_shwaz@striker#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Pozëmka": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_4055_bgsnow#2",
+        "module": "Y",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Fartooth": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_430_fartth#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "W": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_113_cqbw@epoque#7",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Fiammetta": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_300_phenxi#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Rosa": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_197_poca@epoque#12",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Rosmontis": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_391_rosmon@epoque#17",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ch'en the Holungday": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_1013_chen2#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Siege": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_112_siege@striker#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Bagpipe": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_222_bpipe@race#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Saga": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_362_saga#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Saileach": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_479_sleach@epoque#14",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Flametail": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_420_flamtl@game#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Vigil": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_427_vigil#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ifrit": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_134_ifrit@summer#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Mostima": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_213_mostma@epoque#5",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Eyjafjalla": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_180_amgoat@summer#5",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ceobe": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_2013_cerber@summer#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Dusk": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_2015_dusk@nian#7",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Passenger": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_472_pasngr@epoque#17",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Carnelian": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_426_billro@snow#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Goldenglow": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_377_gdglow#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ebenholz": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_4046_ebnhlz#2",
+        "module": "X",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Gnosis": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_206_gnosis@boc#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Angelina": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_291_aglina@boc#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Suzuran": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_358_lisa@lxh#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Magallan": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_248_mgllan@kitchen#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Skadi the Corrupting Heart": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_1012_skadi2@boc#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ling": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_2023_ling#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Stainless": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_4072_ironmn#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Phantom": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_250_phatom@ghost#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Texas the Omertosa": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_1028_texas2#2",
+        "module": "Y",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Lee": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_322_lmlee@witch#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Weedy": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_400_weedy@snow#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Aak": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_225_haak@nian#5",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Gladiia": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_474_glady@boc#5",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Mizuki": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_437_mizuki#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Specter the Unchained": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_1023_ghost2#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Dorothy": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_4048_doroth#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Shining": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_147_shining@summer#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Nightingale": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_179_cgbird@witch#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Kal'tsit": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_003_kalts#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Lumen": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_4042_lumen#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Hoshiguma": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_136_hsguma@nian#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Saria": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_202_demkni@boc#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Blemishine": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_423_blemsh@witch#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Nian": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_2014_nian@nian#4",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Mudrock": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_311_mudrok@ambienceSynesthesia#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Penance": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_4065_judge#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Eunectes": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_416_zumama@boc#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Horn": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_4039_horn#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Mountain": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_264_f12yin@boc#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "SilverAsh": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_172_svrash@snow#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Thorns": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_293_thorns@it#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Ch'en": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_010_chen@nian#2",
+        "module": "X",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Irene": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_4009_irene#2",
+        "module": "Y",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Blaze": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_017_huang@as#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Gavial the Invincible": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_1026_gvial2#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Surtr": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_350_surtr@it#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Hellagur": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_188_helage@boc#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Pallas": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_485_pallas@epoque#12",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Nearl the Radiant Knight": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_1014_nearl2@epoque#17",
+        "module": "X",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Młynar": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_4064_mlynar#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Savage": {
+        "level": 80,
+        "elite": 2,
+        "potential": 4,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_230_savage#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Catapult": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_282_catap#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Midnight": {
+        "level": 55,
+        "elite": 1,
+        "potential": 6,
+        "defaultSkill": 1,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 0
+        },
+        "skin": "char_283_midn@boc#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Beehunter": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_137_brownb@kitchen#1",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Jackie": {
+        "level": 70,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_347_jaksel@whirlwind#2",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Nightmare": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_164_nightm@epoque#5",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Grani": {
+        "level": 80,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 2,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3
+        },
+        "skin": "char_220_grani@epoque#6",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    },
+    "Skadi": {
+        "level": 90,
+        "elite": 2,
+        "potential": 6,
+        "defaultSkill": 3,
+        "skilllevel": 7,
+        "masteries": {
+            "s1": 3,
+            "s2": 3,
+            "s3": 3
+        },
+        "skin": "char_263_skadi@summer#3",
+        "module": "Original",
+        "trust": 25570,
+        "lang": "jp"
+    }
+}

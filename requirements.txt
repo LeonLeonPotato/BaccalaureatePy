@@ -1,0 +1,5 @@
+colorama==0.4.5
+frida==15.2.2
+frida-tools==11.0.0
+mitmproxy==9.0.1
+numpy==1.24.3

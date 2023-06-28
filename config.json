@@ -1,0 +1,10 @@
+{
+    "accountName": "TestAccount",
+    "accountTag": "0001",
+    "accountId": 1,
+    "level": 120,
+    "primes": 6000,
+    "orundums": 180000,
+    "lmd": 12e9,
+    "sanity": 999
+}
