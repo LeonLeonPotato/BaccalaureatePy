@@ -14,7 +14,6 @@ for m in modules.mods:
 debugger = debug.Debugger()
 
 def request(flow: HTTPFlow) -> None:
-    print("Request from", flow.request.url)
     if "arknights" not in flow.request.host:
         return
 
@@ -39,7 +38,6 @@ def request(flow: HTTPFlow) -> None:
 
 
 def response(flow: HTTPFlow) -> None:
-    print("Response from", flow.request.url)
     if "arknights" not in flow.request.host:
         return
 

@@ -10,7 +10,7 @@ Interceptor.attach(proc.add(0x04851030), {
 
 console.log("[Frida Hook] Initiating hook at address 0x023193ec!")
 Interceptor.replace(proc.add(0x023193ec), new NativeCallback(function () {
-    console.log("[Frida Hook] Redirecting OnUIStateChanged for pause glitch")
+    return;
 }, 'void', ['pointer']));
 
 console.log("No bugs, all injected")

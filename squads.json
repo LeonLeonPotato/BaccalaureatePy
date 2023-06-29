@@ -14,9 +14,21 @@
         null
     ],
     "2": [
-        null,
-        null,
-        null,
+        {
+            "name": "Siege",
+            "skill": 3,
+            "module": "Original"
+        },
+        {
+            "name": "Bagpipe",
+            "skill": 3,
+            "module": "Original"
+        },
+        {
+            "name": "Nearl the Radiant Knight",
+            "skill": 2,
+            "module": "Original"
+        },
         null,
         null,
         null,

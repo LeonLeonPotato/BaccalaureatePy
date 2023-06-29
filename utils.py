@@ -96,9 +96,11 @@ load_tables()
 
 def exit_handler():
     if disable_save: return
-    info("Saving characters.json...")
+    info("Saving json...")
     with open("characters.json", "w", encoding="utf-8") as f:
         f.write(json.dumps(character_config, indent=4, ensure_ascii=False))
+    with open("squads.json", "w", encoding="utf-8") as f:
+        f.write(json.dumps(squads, indent=4, ensure_ascii=False))
     info("Done!")
 
 # comment out this if you do not want to save the characters.json file
@@ -148,6 +150,15 @@ def user_choose_device(devices):
 
 def get_usb_device(port, timeout=0, **kwargs):
     return frida.get_device_matching(lambda d: d.type == 'usb' and d.id == port, timeout, **kwargs)
+
+def get_module_id_from_name(mod_name, charid):
+    if charid in module_table["charEquip"]:
+        for i2 in module_table["charEquip"][charid]:
+            found_mod = module_table["equipDict"][i2]["typeName2"]
+            if not found_mod: found_mod = "original"
+            if found_mod.lower() == mod_name.lower():
+                return i2
+    return None
 
 def get_local_ip():
     global _cached_local_ip
