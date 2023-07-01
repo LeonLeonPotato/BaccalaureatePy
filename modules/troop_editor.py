@@ -158,7 +158,6 @@ class OperatorEditor(Module):
                     "completeUpgradeTime": -1
                 })
 
-            print(utils.get_module_id_from_name(v["module"], charid))
             template["currentEquip"] = utils.get_module_id_from_name(v["module"], charid)
 
             if charid in utils.module_table["charEquip"]:
