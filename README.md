@@ -17,12 +17,13 @@ Modern private server made for high-risk CC clears and other gameplay-related sh
 5. In your emulator's settings, enable `root` and adb debugging:
 ![image](https://i.imgur.com/S5PqgOH.png)
 6. Install mitmproxy from https://mitmproxy.org/
-7. Download Frida server version 15.2.2 [here](https://github.com/frida/frida/releases/tag/15.2.2). **Make sure to download the server for your emulator's architecture!**  if you do not know that, run the command `adb shell getprop ro.product.cpu.abi` in a CLI (terminal)
-8. Run `python setup.py` in the project's directory, and then reboot your emulator
-9. **Temporary fix:** In your terminal, run `adb root` and keep on spamming `adb devices` until you see something
-10. Open up Arknights, but do not log in.
-11. Run `python run.py` in your terminal
-12. Log in to your alt account.
+7. Run `python setup.py` in the project's directory, and then reboot your emulator
+8. **Temporary fix:** In your terminal, run `adb root` and keep on spamming `adb devices` until you see something
+9. Download Frida server version 15.2.2 [here](https://github.com/frida/frida/releases/tag/15.2.2). **Make sure to download the server for your emulator's architecture!**  if you do not know that, run the command `adb shell getprop ro.product.cpu.abi` in a CLI (terminal)
+10. Extract the frida server and open up the directory containing it in a CLI. Rename the server to `frida-server`. Then, run `adb push frida-server /data/local/tmp/frida-server`
+11. Open up Arknights, but do not log in.
+12. Run `python run.py` in your terminal
+13. Log in to your alt account.
 
 If you encounter any errors, please friend and DM `3tnt` on Discord, or make a post on the `issues` page!
 
